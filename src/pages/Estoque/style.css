@@ -1,0 +1,22 @@
+.img-produto {
+    width: 180px;
+    object-fit: contain;
+    max-width: 100%;
+}
+
+.lista-produtos {
+    display: flex;
+    flex-wrap: wrap;
+    margin-top: 1px;
+    background-color: rgb(165, 231, 165);
+    width: 100%;
+}
+
+.produto {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-left: 15px;
+ 
+}

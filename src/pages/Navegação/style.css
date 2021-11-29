@@ -1,0 +1,35 @@
+.navbar-container {
+    background-color: #70a652;
+    height: 6rem;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+    gap: 1rem;
+    font-weight: bold;
+    width: 100%;
+}
+
+.navbar-container .nav-links {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 1rem;
+    
+}
+
+.navbar-container .nav-links a {
+    text-decoration: none;
+    text-transform: uppercase;
+    color: white;
+}
+
+.button-sair {
+    background-color: #e3f3db;
+    color: black;
+    font-size: 15px;
+    height: 30px;
+    width: 75px;
+    margin-top: 10px;
+    border-radius: 8px ;
+    cursor: pointer;
+}

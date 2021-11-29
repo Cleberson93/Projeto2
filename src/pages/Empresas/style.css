@@ -1,0 +1,29 @@
+.form-empresas {
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+    margin-top: 5px;
+    width: 60%;
+    background-color: rgb(165, 231, 165);
+    font-weight: bold;
+    font-family: sans-serif;
+    gap: 1rem;
+    margin-left: 20%;
+    border-radius: 5px;
+}
+
+.form-empresas .corpo {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-wrap: wrap;
+    font-size: 1.5rem;
+    width: 100%;
+}
+
+button {
+    margin-left: 10px;
+    margin-bottom: 5px;
+}

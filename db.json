@@ -1,0 +1,85 @@
+{
+  "produtos": [
+    {
+      "url": "",
+      "nome": "",
+      "custo": "",
+      "descrição": "",
+      "fornecedor": "",
+      "grupo": "",
+      "id": 1
+    },
+    {
+      "url": "https://d3ugyf2ht6aenh.cloudfront.net/stores/746/397/products/maca-argentina1-a86acef532d11addf315221676880019-1024-1024.jpg",
+      "nome": "Maça Argentina",
+      "custo": "R$ 2,99",
+      "descrição": "maçãs são muito nutritivas, excelente fonte de vitaminas e minerais: contêm vitaminas A, B1, B2, niacina, vitaminas C e E, pectina e sais minerais como fósforo, magnésio, enxofre, potássio e ferro.",
+      "fornecedor": "Direto do Campo",
+      "grupo": "Hortifruti",
+      "id": 2
+    },
+    {
+      "url": "https://www.shopbrazilianprime.co.uk/wp-content/uploads/2020/06/refrigerante-guarana-antarctica-350ml-1.jpg",
+      "nome": "Guaraná Antarctica",
+      "custo": "R$ 2,29",
+      "descrição": "Guaraná Antarctica é um refrigerante brasileiro que foi lançado no Brasil em 18 de agosto de 1921, pela então Companhia Antarctica Paulista, com o nome de Guaraná Champagne Antarctica, passando a ser a primeira marca a comercializar este tipo de refrigerante.",
+      "fornecedor": "Ambev",
+      "grupo": "Bebidas",
+      "id": 3
+    },
+    {
+      "url": "https://hiperideal.vteximg.com.br/arquivos/ids/188782-1000-1000/100866.jpg?v=637510037206030000",
+      "nome": "Pipoca Yoki",
+      "custo": "R$ 4,99",
+      "descrição": "A sensação de comer uma pipoca crocante, sequinha e feita do nosso jeito é deliciosa. E nada como fazer isso com grãos selecionados",
+      "fornecedor": "Yoki",
+      "grupo": "Cereais",
+      "id": 4
+    }
+  ],
+  "empresas": [
+    {
+      "social": "A.Angeloni & Cia Ltda ",
+      "fantasia": "Supermercado Angeloni",
+      "cnpj": "83.646.984/0069-06",
+      "email": "tempo@angeloni.com",
+      "cep": "88085-001",
+      "endereço": "Av. Gov. Ivo Silveira",
+      "numero": "2445",
+      "bairro": "Capoeiras",
+      "cidade": "florianopolis",
+      "complemento": "",
+      "latitude": "-27.6007",
+      "longitude": "-48.5965",
+      "id": 1
+    },
+    {
+      "social": "\tDISTRIBUIDORA BRASIL ATACADISTA E DISTRIBUICAO LTDA",
+      "fantasia": "Brasil Atacadista",
+      "cnpj": "82.956.160/0001-73",
+      "email": "dpo@grupomundialmix.com.br",
+      "cep": "88048-000",
+      "endereço": "SC-405",
+      "numero": "373",
+      "bairro": "Rio Tavares",
+      "cidade": " 88048-000",
+      "complemento": "",
+      "latitude": "-27.6484 ",
+      "longitude": "-48.5194",
+      "id": 2
+    }
+  ],
+  "fornecedores": [
+    "Ambev",
+    "Yoki",
+    "Direto do Campo",
+    "Sadia"
+  ],
+  "categorias": [
+    "Carnes",
+    "Bebidas",
+    "Hortifruti",
+    "Cereais",
+    "Massas"
+  ]
+}
