@@ -9,21 +9,25 @@
     background-color: rgb(165, 231, 165);
     font-weight: bold;
     font-family: sans-serif;
-    gap: 1rem;
+    gap: 10px;
     margin-left: 20%;
     border-radius: 5px;
 }
 
-.form-empresas .corpo {
+.corpo-emp {
     display: flex;
     justify-content: space-between;
     align-items: center;
     flex-wrap: wrap;
-    font-size: 1.5rem;
+    font-size: 1rem;
     width: 100%;
+    margin-top: 20px;
+    
 }
 
-button {
+.form-empresas button {
     margin-left: 10px;
     margin-bottom: 5px;
+    width: 100px;
+    height: 30px;
 }

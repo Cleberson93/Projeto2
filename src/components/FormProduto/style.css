@@ -9,6 +9,7 @@
     font-weight: bold;
     font-family: sans-serif;
     margin-left: 35%;
+    margin-top: 20px;
     border-radius: 5px;
     max-width: 100%;
 }
@@ -16,5 +17,11 @@
 select {
     width: 150px;
 }
-
+.form-produtos button {
+    margin-left: 10px;
+    margin-bottom: 5px;
+    width: 100px;
+    height: 30px;
+    margin-top: 10px;
+}
 
